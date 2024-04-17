@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/dao/NoticiaDAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>122</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Macro/Documents/NetBeansProjects/WebAgenda_mysql_tc10/web/ed-contatos.jsp</file>
+            <file>file:/C:/Users/Macro/Documents/NetBeansProjects/WebAgenda_mysql_tc10/web/listarNoticias.jsp</file>
+            <file>file:/C:/Users/Macro/Documents/NetBeansProjects/WebAgenda_mysql_tc10/src/java/controller/Controller.java</file>
+            <file>file:/C:/Users/Macro/Documents/NetBeansProjects/WebAgenda_mysql_tc10/web/cadastrarNoticia.jsp</file>
+            <file>file:/C:/Users/Macro/Documents/NetBeansProjects/WebAgenda_mysql_tc10/web/editarNoticias.jsp</file>
+            <file>file:/C:/Users/Macro/Documents/NetBeansProjects/WebAgenda_mysql_tc10/src/java/dao/NoticiaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
